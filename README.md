@@ -12,5 +12,5 @@
 - Para a visualização de como ficou este projeto, deixei abaixo um print de como ficou o resultado do código.
 - Caso queira acessar o arquivo, o mesmo está localizado na pasta !["Assets"](https://github.com/guiluzz/CriaEmoji-Python/blob/main/Assets)
 
-- ![Emoji Gerado](https://github.com/guiluzz/CriaEmoji-Python/blob/main/Assets/resultado%20gerado.png)
+![Emoji Gerado](https://github.com/guiluzz/CriaEmoji-Python/blob/main/Assets/resultado%20gerado.png)
 
